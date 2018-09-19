@@ -1,0 +1,25 @@
+	position: fixed;
+    width: 100%;
+    height: 300%;
+    display: none;
+    top: 0;
+    left: 0;
+    z-index: 10000;
+    background-color: rgba(0,0,0,0.7);
+    transition: width 0.4s, height 0.4s, bottom 0.4s;
+	
+-- Habits
+
+Hello my friends, Welcome back to my homework video. In this video, i will talk about habits. 
+So what is habits?
+According to the definition /defəˈniSHən/ of Wikipedia: A habit is a routine of behavior that is repeated regularly and tends to occur /əˈkər/ (xảy ra) subconsciously /səbˈkänSHəsly/ (tiềm thức). In my opinion, habits is a *lot* of activities you usually do its everyday. And habit deviced into 2 types: Good habit and bad habit. I think everyone has bad habits but Not everyone agrees on what bad habits are.
+About mi, i have not only good habit but also bad habit. I usually get up early, read book, work had, rotating my arm hard and play sports. i also have some bad habit *like* stay up *late* at night, really *late*!, i often play face and play game online, i usually sleeps in my class. That was terrible at all!, right? It's not good and i try to controll my bad habit.
+Do you know you can realize personality of someone through their habits. For example, when you see someone who Yawning /yôn/ in the class, exactly, this guy usually stay up late. 
+And i think  good habits and bad habits will create your character and I know you want to be a good person in all aspects. So why don't you break a bad habits and overcome your bad habits. 
+I know bad habits are very hard to break simply. Let brainstorm a little. You can chose become a good person or become a normal person who don't have anything interesting. For example, you usually read book before you go to sleep, you can get gain knowledge, get information, new ways to resolve some problem in *life*.. Or your habit is push-up, you will have a big hand, and then you can usually rotating your arm. 
+And the *last* one (The finally) i hope you can try your best to *learn*, develop your good habits and controll, break your bad habits in order to improve yourself. Everything will be okay if you don't give up! 
+
+
+
+
+
